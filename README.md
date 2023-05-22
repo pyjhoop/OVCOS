@@ -23,8 +23,8 @@ KH교육원 세미프로젝트
 <b>뛰어조</b> 김수진, 박연준, 박진우, 박소영, 이형근, 이지원
 
 ## 4. 설계
-오븐 링크
 ERD
+https://www.erdcloud.com/d/mYMviF7bz7XQMoTfz
 
 ## 5. 개발환경
 
