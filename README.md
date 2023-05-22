@@ -23,9 +23,21 @@ KH교육원 세미프로젝트
 <b>뛰어조</b> 김수진, 박연준, 박진우, 박소영, 이형근, 이지원
 
 ## 4. 설계
-ERD
+ERD : 
 https://www.erdcloud.com/d/mYMviF7bz7XQMoTfz
 
 ## 5. 개발환경
+- OS : Windows10
+- IDE : Eclipse(2020-06) SQL Developer
+- Was : Tomcat v9.0
+- DBMS : Oracle 11g EX
+- Language : Java, HTML, CSS, JQuery, JSP, SQL, JavaScript
 
 ## 6. 각섹션별 이미지
+
+### 1) 메인 화면
+![image](https://github.com/pyjhoop/OVCOS/assets/59335316/986eea9d-5c0b-4429-9be1-0ca55345947c)
+
+### 2) 로그인 화면
+![image](https://github.com/pyjhoop/OVCOS/assets/59335316/a709ceb8-26d3-44dc-b345-3ac28867dd74)
+
